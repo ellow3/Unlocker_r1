@@ -1,0 +1,163 @@
+2024-12-13 18:41:46,128:WARNING:Color profiles file not found or is empty.
+2024-12-13 21:56:58,971:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\unlockerAl\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2024-12-13 21:59:27,801:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\unlockerAl\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2024-12-13 23:03:36,562:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\unlockerAl\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2024-12-15 13:18:45,250:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\unlockerAl\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2024-12-15 15:32:56,263:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\unlockerAl\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2024-12-21 08:10:25,318:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\unlockerAl\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2024-12-25 23:55:41,431:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2024-12-27 17:26:34,545:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2024-12-27 20:38:13,364:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2024-12-27 20:42:05,982:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2024-12-27 21:53:26,809:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2024-12-28 12:12:02,094:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2025-01-08 19:53:50,800:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2025-01-15 18:52:46,389:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\projects\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2025-01-26 19:12:22,770:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\projects\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2025-02-02 15:57:41,720:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\projects\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2025-02-02 16:03:27,596:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\projects\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2025-02-02 16:03:39,459:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\projects\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2025-02-07 19:21:41,559:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\projects\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2025-02-08 12:03:13,429:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\projects\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2025-02-09 20:44:53,125:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\projects\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2025-02-10 19:41:02,450:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\projects\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2025-02-11 19:49:30,935:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\projects\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2025-02-12 16:48:28,989:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\projects\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2025-02-13 20:25:19,165:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\projects\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2025-02-16 22:32:05,007:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\projects\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
+2025-02-18 15:16:02,150:ERROR:Color profiles file not found or is empty.
+Traceback (most recent call last):
+  File "C:\Users\kiwix\Desktop\projects\alpha06\dpiunlocker.py", line 44, in load_color_profiles
+    with open(os.path.join(data_dir, 'color_profiles.json'), 'r') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data\\color_profiles.json'
